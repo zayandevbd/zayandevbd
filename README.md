@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ferdous   
+# 👋 Hi there, I'm Zayan   
 
 🚀 **Android & KMP Developer | Jetpack Compose | Clean Architecture | Hilt | MVVM**
 - 🔭 I’m currently working on Android/KMP apps  
