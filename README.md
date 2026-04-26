@@ -18,7 +18,7 @@
 - 🌱 Deepening expertise in **Kotlin Multiplatform (KMP)**
 - 💡 Passionate about writing clean, testable, and scalable mobile code
 - 💬 Ask me about **Android, Kotlin, Compose, Clean Architecture, Hilt**
-- 📫 Reach me at **ferdoushasan785@gmail.com** or [ferdoushasan.vercel.app](https://ferdoushasan.vercel.app/)
+- 📫 Reach me at **ferdoushasan785@gmail.com**
 
 ---
 
@@ -78,19 +78,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdoushasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdoushasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdoushasan&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferdoushasan&label=Profile+Views&color=1565C0&style=flat-square" />
-</p>
 
 <p align="center"><i>"Clean code always looks like it was written by someone who cares."</i></p>
