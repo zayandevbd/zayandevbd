@@ -1,5 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm **Zayan** (Jannatul Ferdous)
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm **Zayan** 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Android+%26+KMP+Developer;Jetpack+Compose+%7C+Clean+Architecture;MVVM+%7C+MVI+%7C+Hilt+%7C+Kotlin+Multiplatform" alt="Typing SVG" />
 </p>
