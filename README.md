@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:zayandevbd@gmail.com"><img src="https://img.shields.io/badge/Email-zayandevbd@gmail.com-blue?style=flat-square&logo=gmail" /></a>
-  <a href="https://zayansd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-zayansd.vercel.app-1565C0?style=flat-square&logo=vercel" /></a>
+  <a href="https://zayandevbd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-zayandevbd.vercel.app-1565C0?style=flat-square&logo=vercel" /></a>
   <img src="https://img.shields.io/badge/English-Professional-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Korean%20(한국어)-Professional-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Japanese%20(日本語)-Basic-success?style=flat-square" />
