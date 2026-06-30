@@ -8,6 +8,7 @@
   <a href="https://zayansd.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-zayansd.vercel.app-1565C0?style=flat-square&logo=vercel" /></a>
   <img src="https://img.shields.io/badge/English-Professional-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Korean%20(한국어)-Professional-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Japanese%20(日本語)-Basic-success?style=flat-square" />
 </p>
 
 ---
